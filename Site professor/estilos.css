@@ -1,0 +1,62 @@
+*{
+background hf;
+
+}
+
+
+h1{
+   position: absolute;
+   top: 35px;
+   left: 0;
+   text-align: center;
+   width: 1350px;
+   height: 56px;
+z-index: 9999;
+
+}
+
+
+h3{
+text-align: center;
+}
+
+
+nav{
+text-align: center;
+}
+
+.container
+{
+position: relative;
+
+}
+
+img.porco{
+   position: absolute;
+   top: 120%;
+   display: inline-block;
+   width: 200;
+   height: 250;
+
+
+}
+
+img.dinheiro{
+
+   position: absolute;
+   top: 120%;
+   left: 40%
+   ;
+  
+}
+
+img.ok{
+top: 120%;
+left: 60%;
+
+}
+
+header{
+background-color:darkgrey;
+
+}
